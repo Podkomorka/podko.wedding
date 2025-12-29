@@ -277,11 +277,6 @@ a {
 #attire {
     background-color: var(--color-background);
     text-align: center;
-    .content {
-        display: flex;
-        justify-content: center;
-        gap: 8rem;
-    }
 }
 
 #gallery {
