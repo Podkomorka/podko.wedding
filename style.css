@@ -277,6 +277,9 @@ a {
 #attire {
     background-color: var(--color-background);
     text-align: center;
+    img {
+        width: 100%;
+    }
 }
 
 #gallery {
