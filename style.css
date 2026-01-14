@@ -348,7 +348,7 @@ footer:before {
 /* ======================================
    RESPONSIVE
 ====================================== */
-@media (max-width: 1060px) {
+@media (max-width: 1160px) {
     .navbar-container input[type="checkbox"],
     .navbar-container .hamburger-lines {
         display: block;
